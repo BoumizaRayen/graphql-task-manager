@@ -1,8 +1,4 @@
-# TP5 — Système de gestion de tâches avec GraphQL
-
-**Matière :** SoA et Microservices  
-**Enseignant :** Dr. Salah Gontara  
-**Classe :** 4Info — A.U. 2025/2026
+# Système de gestion de tâches avec GraphQL
 
 ---
 
